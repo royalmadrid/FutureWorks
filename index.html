@@ -3,36 +3,24 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p>欢迎来到未来工场 : )</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>时代的不断发展，科技的极速进步，当今的年青朋友们正在，或者即将面临更多的挑战，终身学习已不可避免。</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>未来的时代，应该具备一定的投资理财基础，能够尽可能早地达到财务方面的自由，尽量减少金钱所困恼束缚；具备一定的创新基础知识，商业运作知识，个人创造力能够充分地实现；需要了解一定的营养健身基础理论知识，身体是革命的本钱；具备一定的编程基础，在物联网的世界，万物互联，自由的与机器实现对话，控制机器；个人的精神世界非常富足，具备一定的人文艺术修养，最简单的比如音乐绘画，摄影基础等。</p>
+  
+<p>当前网络上的知识，一方面碎片化严重，正如我们日常的零食小吃，其实并不能替代身体所需的基础食物补给；另一方面充斥着海量知识，让我们很迷茫，无所适从，不知从何而学起。</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p>未来工场网站精选了一些系统性的知识文档，供大家参考。目前已完成或在编的在线文档包括:
+  <ul>
+    <li><a href="https://investopedia.readthedocs.io/en/latest/"> 投资百科</a></li>
+    <li><a href="http://jekyllrb.com"> Built for Jekyll</a></li>
+    <li><a href="https://pages.github.com"> Developed on GitHub and hosted for free on [GitHub Pages]</a></li>
+    <li><a href="http://sublimetext.com"> oded with [Sublime Text 2, an amazing code editor</a></li>
+    <li><a href="https://soundcloud.com/maddecent/sets/blood-bros-series">Designed and developed while listening to music like Blood Bros Trilogy</a></li> 
+  </ul>
+</p>
 
+<p>未雨绸缪，凡事预则立，不预则废，希望大家能更好地面对未知的未来生活!</p>
+
+<p>感谢您的阅读! </p>

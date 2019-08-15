@@ -1,31 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+未来工场由数位留学欧美人员于2019年9月创办。我们坚信知识改变未来，秉承知识极简理念，建立一个在线知识平台，涉及投资，理财，创业，营养，健身，艺术人文，编程等领域的基础知识。
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+问题或者建议? 可以通过以下方式联系：[ GitHub: open an issue](https://github.com/royalmadrid/FutureWorks/issues) 或者 
+[ Weibo 留言](https://weibo.com/ftwk) 或者 [email 邮件](FutureWorks@foxmail.com).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+本站由[@Future_Works](https://weibo.com/ftwk)制作. 想了解更多以及参与本站建设请登陆[GitHub](https://github.com/FutureWorks).
