@@ -9,7 +9,8 @@ title:               未来工场
 tagline:             'FUTURE WORKS'
 description:         'The future does not come with a plan, You build it. </br> - <a href="https://weibo.com/ftwk" target="_blank">@Future_Works</a>'
 url:                 https://royalmadrid.github.io/futureworks
-baseurl:             '/futureworks'
+# baseurl:             '/futureworks'
+# baseurl:             ''
 paginate:            2
 paginate_path:       "/blog/page:num/"
 
