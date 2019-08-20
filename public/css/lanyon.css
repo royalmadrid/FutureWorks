@@ -537,6 +537,29 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* customized Blue from Readthedocs theme */
+.theme-base-0k .sidebar,
+.theme-base-0k .sidebar-toggle:active,
+.theme-base-0k #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #297FB8;
+}
+.theme-base-0k .container a,
+.theme-base-0k .sidebar-toggle,
+.theme-base-0k .related-posts li a:hover {
+  color: #297FB8;
+}
+
+/* customized black from apple.com theme */
+.theme-base-0j .sidebar,
+.theme-base-0j .sidebar-toggle:active,
+.theme-base-0j #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #323232;
+}
+.theme-base-0j .container a,
+.theme-base-0j .sidebar-toggle,
+.theme-base-0j .related-posts li a:hover {
+  color: #0070c9;
+}
 
 /*
  * Overlay sidebar

@@ -24,6 +24,8 @@ permalink: /library/
 
 营养健身
 
+- [营养基础](https://slides.com/futureworks/deck/fullscreen)
+
 ----
 
 艺术人文
